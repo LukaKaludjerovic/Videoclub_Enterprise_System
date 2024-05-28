@@ -1,0 +1,11 @@
+com\mycompany\centralniserver\resources\KategorijaResource.class
+entities\Kategorija.class
+entities\Korisnik.class
+entities\Mesto.class
+entities\Pripada.class
+com\mycompany\centralniserver\resources\MestoResource.class
+com\mycompany\centralniserver\resources\VideosnimakResource.class
+entities\Videosnimak.class
+com\mycompany\centralniserver\JAXRSConfiguration.class
+com\mycompany\centralniserver\resources\JavaEE8Resource.class
+com\mycompany\centralniserver\resources\KorisnikResource.class
